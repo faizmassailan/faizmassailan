@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faizmassailan
 - 👀 I’m interested in cloud computing and web development
-- 🌱 Certified in AZ104 Azure Administrator Associate
+- 🌱 Certified in AZ104, AZ500 & AZ303,AZ304
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: faizmassailan@gmail.com
 - IG: https://www.instagram.com/blckpgeon/
